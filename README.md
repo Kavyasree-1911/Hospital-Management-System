@@ -14,4 +14,5 @@ A Java console-based application for managing patients and doctors.
 ## Run
 
 javac *.java
+
 java HospitalManagementSystem
